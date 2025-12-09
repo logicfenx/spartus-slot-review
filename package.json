@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/spartus-slot-review",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a spartus-slot-review",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/spartus-slot-review.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://isproto.com/en/sparus-slot-review/"
+    },
+    "homepage": "https://isproto.com/en/sparus-slot-review/"
+}
